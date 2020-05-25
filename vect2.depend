@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571415198 source:c:\users\user\prog\3 sem\vect2\main.cpp
+	<iostream>
+	<vector>
+
+1571415800 source:c:\users\rog\desktop\proga\vect2\main.cpp
+	<iostream>
+	<vector>
+
+1590444096 source:c:\users\rog\desktop\proga\vec2\main.cpp
+	<iostream>
+	<vector>
+	<locale.h>
+	<stdlib.h>
+	<ctime>
+
